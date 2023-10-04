@@ -28,7 +28,7 @@ html {
 }
 
 .container {
-  @apply max-w-[1300px] w-full mx-auto px-3;
+  @apply max-w-[1500px] w-full mx-auto px-3;
 }
 
 #nprogress .bar {

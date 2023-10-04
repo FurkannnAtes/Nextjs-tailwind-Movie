@@ -74,7 +74,7 @@ const PopularTv = ({ tv, watchListSlice, favoriteListSlice }) => {
             loop={true}
             navigation={true}
             modules={[Navigation]}
-            className=" list-swiper overflow-visible"
+            className=" list-swiper "
           >
             {tv?.map(
               (tv, i) =>
